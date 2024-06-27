@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gergobinszki
-- 👀 I’m interested in FIBS Testing
-- 🌱 I’m currently learning Typescript
+- 👀 I’m interested in all kinds of Testing
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on DRFN
 - 📫 How to reach me: gergo.binszki@hu.fressnapf.eu
 
